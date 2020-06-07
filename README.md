@@ -1,6 +1,6 @@
 # 研究テーマ<br>
 「Doc2Vecによるシラバスデータのベクトル化とその応用に関する研究」<br>
-## プログラム概要<br>
+## 概要<br>
 ### Doc2Vec(pca).py<br>
 Doc2Vecで作成した講義の特徴量を次元削減(pca)で可視化<br>
 ### TF-IDF(pca).py<br>
